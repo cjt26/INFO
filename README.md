@@ -15,7 +15,9 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 
 7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
-
-1. grapefruit
-2. banana
-3. water
+```
+What I had for Breakfast
+1. Grapefruit
+2. Oatmeal
+3. Water
+```
